@@ -1,0 +1,11 @@
+*** WooCommerce Individually Calculated Shipping Zones Changelog ***
+
+2018-03-13 - version 1.0.2
+* Update condition $package_hash == $stored_rates['package_hash'] in wisz_shipping_packages()
+* Add condition is_cart() in wisz_shipping_packages()
+
+2017-12-28 - version 1.0.1
+* Update Plugin Name
+
+2017-07-17 - version 1.0.0
+* First Release :)
